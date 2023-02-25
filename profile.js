@@ -83,7 +83,7 @@ export const skills = [
       name: "Deliveroo",
       description:
         "Created with Expo and Javascript. Renders restaurants list that contain dishes from restaurants around the world. It uses Sanity as backend to save restaurants and dishes that allow users simulate an order.",
-      image: "portfolio1.png",
+      image: "/portfolio1.png",
       url: 'https://github.com/juancamilorivas/deliveroo-clone',
     },
     {
