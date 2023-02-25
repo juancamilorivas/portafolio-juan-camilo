@@ -101,7 +101,7 @@ export default function Home() {
         <div className="card card-body bg-dark">
           <div className="row">
             <div className="col-md-12">
-              <h1 className="text-center text-light">Portafolio</h1>
+              <h1 className="text-center text-light">Projects</h1>
             </div>
             {projects.map(({ name, description, image, url }, i) => (
              <Link key={i} href={`${url}`} legacyBehavior>
