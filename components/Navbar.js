@@ -3,9 +3,9 @@ import Link from "next/link";
 const Navbar = () => (
   <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
     <div className="container">
-     <Link href="/" legacyBehavior>
+     <Link href="https://www.linkedin.com/in/juancamilorivasmolina/" legacyBehavior>
      <a className="navbar-brand" >
-        Start
+        LinkedIn
       </a>
      </Link>
       <button

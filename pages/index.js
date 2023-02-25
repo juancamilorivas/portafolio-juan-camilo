@@ -34,8 +34,8 @@ export default function Home() {
                 this industry, I've honed my analytical thinking and
                 collaboration skills, and I love working with a team
               </p>
-              <a href="https://www.linkedin.com/in/juan-camilo-rivas-molina-a079291b1/">
-                <h5 className="font-weight-bold">LinkedIn</h5>
+              <a href="juancamilorivasmolina.pdf" download="cv">
+                <h5 className="font-weight-bold">Download CV</h5>
               </a>
             </div>
           </div>
